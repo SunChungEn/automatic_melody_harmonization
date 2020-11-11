@@ -2,6 +2,7 @@
 melody harmoniztion using orderless NADE, chord balancing and blocked Gibbs sampling
 
 paper: https://arxiv.org/pdf/2010.13468.pdf
+demo page: https://chord-generation.herokuapp.com/demo
 
 1. download lead sheet dataset
 2. run create_dataset.py
