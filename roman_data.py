@@ -3,7 +3,7 @@ symbol2onehot96, roman2romantrainonehot, sec2sectrainonehot, borrowed2borrowedtr
 import numpy as np
 import pickle
 
-# melody_data = np.load('./melody_data.npy')
+melody_data = np.load('./melody_data.npy')
 f = open('symbol_data', 'rb')
 symbol_data = pickle.load(f)
 f.close()
